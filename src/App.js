@@ -1,7 +1,7 @@
 function App() {
   return (
     <main style={{ fontFamily: "sans-serif", padding: "2rem" }}>
-      <h1>Veronica's Portfolio</h1>
+      <h1>Veronica's Empty React Proyect</h1>
       <p>Coming soon...</p>
     </main>
   );
