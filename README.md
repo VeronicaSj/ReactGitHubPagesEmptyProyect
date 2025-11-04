@@ -1,4 +1,4 @@
-# Veronica's Portfolio
+# React Empty Proyect prepared for GitHub Pages
 
 This is a clean React project configured for GitHub Pages deployment.
 
